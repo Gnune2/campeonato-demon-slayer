@@ -45,9 +45,9 @@ O sistema não apenas registra pontos, ele valida se as regras do nosso campeona
 
 Este projeto está sendo desenvolvido utilizando as seguintes tecnologias:
 
-* **Front-end:** (Coloque aqui: ex: React.js / Vue / HTML5 & CSS3)
-* **Back-end:** (Coloque aqui: ex: Node.js / Python Django)
-* **Banco de Dados:** (Coloque aqui: ex: PostgreSQL / MongoDB)
+* **Front-end:** (React & Javascript / HTML5 & CSS3)
+* **Back-end:** (Node.js / Javascript)
+* **Banco de Dados:** (MongoDB)
 
 ## 📸 Screenshots
 
